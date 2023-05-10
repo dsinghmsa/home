@@ -9,5 +9,6 @@ a {
 }
 
 body {
-  max-width: 400px;
+  max-width: 648px;
+  margin: auto;
 }
