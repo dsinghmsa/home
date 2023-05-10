@@ -1,4 +1,13 @@
 * {
-  color: white;
+  color: #daffc2;
   background-color: black;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+a {
+  color: #88ff38;
+}
+
+body {
+  max-width: 400px;
 }
