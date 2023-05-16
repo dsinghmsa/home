@@ -11,4 +11,6 @@ a {
 body {
   max-width: 648px;
   margin: auto;
+  padding-left: 12px;
+  padding-right: 12px;
 }
